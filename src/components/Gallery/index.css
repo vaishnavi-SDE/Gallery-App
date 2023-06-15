@@ -1,0 +1,29 @@
+/* Write your code here. */
+.heading {
+  color: #1e293b;
+  font-size: 30px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.image-style {
+  margin-top: 20px;
+  height: 420px;
+  width: 1000px;
+  border-radius: 50px;
+  margin-left: 50px;
+}
+
+.para {
+  color: #64748b;
+  font-size: 20px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  padding-left: 50px;
+}
+
+.list-container {
+  display: flex;
+  list-style-type: none;
+}

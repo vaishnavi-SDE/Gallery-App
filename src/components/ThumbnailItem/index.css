@@ -1,0 +1,19 @@
+/* Write your code here. */
+.listItem {
+  background-color: #ffffff;
+  height: 60px;
+  width: 90px;
+  margin: 10px;
+}
+
+.image-button {
+  background-color: #ffffff;
+  height: 60px;
+  width: 90px;
+  border: 0px solid;
+}
+
+.Thumbnail-style {
+  height: 60px;
+  width: 90px;
+}
